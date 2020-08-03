@@ -1,21 +1,22 @@
 # FBH
 
-apt update && apt upgrade
+<h3>Screenshot</h3>
 
-apt install git
+![IMG_20200803_083841](https://user-images.githubusercontent.com/46747652/89138145-cb270780-d564-11ea-9eb7-fe3bb4a5b86d.jpg)
 
-git clone https://github.com/muhammadfathul/FBH
+<h3>Installing</h3>
 
-cd FBH
-
-chmod 777 *
-
-bash setup
-
-./FBH
-
+```java
+$ apt update && apt upgrade
+$ apt install git
+$ git clone https://github.com/muhammadfathul/FBH
+$ cd FBH
+$ chmod 777 *
+$ bash setup
+$ ./FBH
+```
 kalo sudah berhasil masuk ketikan perintah
-"help" tanpa tanda kutip dua,
+```java help``` tanpa tanda kutip dua,
 
 
 
