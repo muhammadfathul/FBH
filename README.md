@@ -9,7 +9,7 @@
 ```java
 $ apt update && apt upgrade
 $ apt install git
-$ git clone https://github.com/muhammadfathul/FBH
+$ git clone https://github.com/ArroKM/FBH
 $ cd FBH
 $ chmod 777 *
 $ bash setup
